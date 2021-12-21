@@ -1,0 +1,8 @@
+[package]
+name = "dancing-dragon"
+version = "0.1.0"
+authors = ["Younis Shah <younisashah@gmail.com>"]
+
+[dependencies]
+rust-crypto = "0.2.36"
+time = "0.1.39"
